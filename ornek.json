@@ -1,0 +1,91 @@
+{
+    "languages": [
+        {
+            "name": "C",
+            "description": "Uygulama süreçlerinde en sık tercih edilen dildir. Bu dil diğer dilleri öğrenme kolaylığı da sağlamaktadır. Pek çok açıdan en temel programa dili olarak kabul görür.",
+            "url": "http://google.com",
+            "mobile": 1,
+            "web": 0
+        },
+        {
+            "name": "C++",
+            "description": "Aynı şekilde hem mobil uygulamalarda hem de işletim sistemlerinde rahatlıkla kullanılabilir. Özellikle mobil uygulama alanında tercih dildiğinde seri programların oluşmasına olanak sağlar. Düşük seviye programlama dilleri arasında ilk sıradadır.",
+            "url": "http://google.com",
+            "mobile": 1,
+            "web": 0
+        },
+        {
+            "name": "Java",
+            "description": "Genelde tek bir defa yazıldıktan sonra işlevsel biçimde pek çok yerde kullanılabilen JAVA, son derece verimli ve kullanışlıdır. Müthiş bir popülerliğe sahip olan JAVA, işletim sistemlerinin hemen hemen tamamına uyumludur.",
+            "url": "https://www.java.com/tr/",
+            "mobile": 1,
+            "web": 1
+        },
+        {
+            "name": "HTML",
+            "description": "HTML genelde programla dili olarak görülmez. O daha çok bir işletim sistemi olarak tanımlanır. Sadece mobil uygulama değil web uygulamaları geliştirmek de mümkündür.",
+            "url": "http://oracle.com",
+            "mobile": 1,
+            "web": 1
+        },
+     
+        {
+            "name": "C#",
+            "description": "C Sharp olarak bilinen bu dil, Miccrosoft tarafından geliştirilmiştir. Temel amacı C veya C++ üzerinde yer alan bazı hasarları ve çelişkileri yok etmektir. Nesnel tabanlı bir dil olan C Sharp, büyük ölçüde Java’yı anımsatır.",
+            "url": "http://oracle.com",
+            "mobile": 1,
+            "web": 1
+        },
+        {
+            "name": "Swift",
+            "description": "Apple firması tarafından ortaya çıkarılan bu dil, İOS işletim sistemine yönelik olarak işlev görmektedir. Açık kayaklı olduğu için çoğu zaman kullanıcıların dostu olarak görülen bu Swift, kolay kullanımına rağmen son derece güçlü bir yapıya sahiptir",
+            "url": "https://swift.org/",
+            "mobile": 1,
+            "web": 1
+        },
+        {
+            "name": "Kotlin",
+            "description": "Kotlin, statik olarak Apache 2.0 lisansı altında geliştirilmiş ücretsiz, açık kaynak koda sahip bir programlamadilidir. Kotlin diline destek verip Kotlin’in gelişmesine katkıda bulunabilirsiniz. Kotlin, nesneye yönelimli (object oriented) fonksiyonel bir dildir. Java, C# ve C++ gibi nesne yönelimli bir programlama dilidir.",
+            "url": "https://kotlinlang.org/",
+            "mobile": 1,
+            "web": 1
+        }
+    ],
+    "renkler": [
+        {
+            "rengi": "mavi",
+            "mobile": 1,
+            "web": 1
+        },
+        {
+            "rengi": "sari",
+            "mobile": 1,
+            "web": 1
+        },
+        {
+            "rengi": "beyaz",
+            "mobile": 1,
+            "web": 1
+        },
+        {
+            "rengi": "mor",
+            "mobile": 1,
+            "web": 1
+        },
+        {
+            "rengi": "pembe",
+            "mobile": 1,
+            "web": 1
+        },
+        {
+            "rengi": "kirmizi",
+            "mobile": 1,
+            "web": 1
+        }
+
+    ],
+    "bar": 10
+
+}
+
+
